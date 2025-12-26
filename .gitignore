@@ -5,3 +5,8 @@
 /orders.csv
 /products.csv
 /title.txt
+/.idea/csv-editor.xml
+/out/freq_01.pkl
+/out/order_products_clean.csv
+/out/orders_clean.csv
+/out/transactions.csv
